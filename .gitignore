@@ -1,0 +1,36 @@
+# Datasets
+*.wav
+*.mp3
+*.csv
+*.xlsx
+data/
+Dataset/
+
+# Models
+*.h5
+*.pkl
+*.joblib
+*.pt
+models/
+saved_models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/
+results/
+logs/
+*.log
